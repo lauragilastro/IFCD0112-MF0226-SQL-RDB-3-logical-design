@@ -38,7 +38,7 @@ SOLUCIÓN: tabla aparte para MUNICIPIO con PROVINCIA dentro:
 
 ## Feedback del profesor:
 Estimado/a LAURA GIL ORTIZ,
-Te informamos que tienes nuevas calificaciones disponibles referentes a UF2175_UD 3#Actividad 3_Caso práctico correspondiente al grupo ED24-ED1-MF0226 - PROGRAMACIÓN DE BASES DE DATOS RELACIONALES (IFCD0112).
+Te informamos que tienes nuevas calificaciones disponibles referentes a UF2175_UD 3Actividad 3_Caso práctico correspondiente al grupo ED24-ED1-MF0226 - PROGRAMACIÓN DE BASES DE DATOS RELACIONALES (IFCD0112).
 
 Dicha tarea ha sido evaluada con una nota de: 10
 
